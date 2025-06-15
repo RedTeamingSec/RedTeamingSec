@@ -16,7 +16,7 @@
 
 - 👨‍💻 Red Team Operator & Malware Developer  
 - 🧠 Passionate in low-level persistence & evasion  
-- 🛠️ Creator of **Lazy Ransomware Panel & Agent**  
+- 🛠️ Creator of **Ransomware Panel & Agent**  
 - 💬 Love to break things to understand how they work  
 
 ---
